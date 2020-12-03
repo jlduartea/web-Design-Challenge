@@ -14,14 +14,14 @@ For this homework I created a visualization dashboard website using visualizatio
 
 I created individual pages for each plot and a means by which we can navigate between them. These pages contain the visualizations and their corresponding explanations. Also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
-### Website Requirements
+### Website Specifications
 
 The website consist of 7 pages total, including:
 
 * A Landing Page containing:
   * An explanation of the project.
   * Links to each visualizations page.
-  ![Images/Landing Page](Images/Visualization.PNG)
+  ![Landing Page](Images/Visualizations.PNG)
 
 * Four Visualization Pages, each with:
   * A descriptive title and heading tag.
@@ -45,7 +45,7 @@ The website have, at the top of every page, have a navigation menu that:
 * Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
 * Contains a dropdown on the right of the navbar named "Plots" which provides links to each individual visualization page.
 * Provides two more links on the right: "Comparisons" which links to the comparisons page, and "Data" which links to the data page.
-    ![Navigation Menu](Images/PlotPopUp.PNG)
+    ![Navigation Menu](Images/PlotsPopUp.PNG)
 
 ### Screenshots
 
@@ -63,7 +63,7 @@ Small screen:
 #### Comparisons page
 
 Large screen:
-![comparison page large screen](Images/Comparison.PNG)
+![comparison page large screen](Images/Comparison1.PNG)
 
 Small screen:
 ![comparison page small screen](Images/Comparison-sm.PNG)
@@ -79,10 +79,10 @@ Small screen:
 #### Visualization pages
 
 Large screen:
-![visualize page large screen](Images/Visualization.PNG)
+![visualize page large screen](Images/Visualizations.PNG)
 
 Small screen:
-![visualize page small screen](Images/Visualization-sm.PNG)
+![visualize page small screen](Images/Visualizations-sm.PNG)
 
 #### Navigation menu
 
